@@ -8,7 +8,7 @@
   color: #573a37;
 }
 body {
-  background-image: url(/assets/bg-image.jpg);
+  background-image: url(assets/bg-image.jpg);
   background-size: cover;
 }
 #page {
