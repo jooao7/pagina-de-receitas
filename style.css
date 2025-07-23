@@ -10,6 +10,8 @@
 body {
   background-image: url(assets/bg-image.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 #page {
   box-sizing: border-box;
